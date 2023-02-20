@@ -37,6 +37,7 @@ Please compile with "-std=c++17".
                       flowing a space and a numeric literal string as it's value.
       * --str value : multiple chars (starts with letter/digit) with prefix "--" as it's name.
                       flowing a space and a numeric literal string as it's value.
+                      
     note:
       * supported numeric type: int32_t, uint32_t, int64_t, float and double.
 
