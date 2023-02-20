@@ -28,6 +28,7 @@ Please compile with "-std=c++17".
                       flowing a space and a string as it's value.
       * --str value : multiple chars (starts with letter/digit) with prefix "--" as it's name.
                       flowing a space and a string as it's value.
+                      
     note:
       * if space exits in value, can be replacd as "\ ".
       * if special char exists in value, the value can be wrapper with quotation marks.
