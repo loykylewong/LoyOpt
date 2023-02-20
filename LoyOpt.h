@@ -1,8 +1,9 @@
 /*
- * main.cc
+ * LoyOpt.h
  *
  *  Created on: Nov 28, 2022
  *      Author: loywong@gmail.com, github.com/loykylewong
+ *     License: MIT License, Copyright (c) 2023 Loy Kyle Wong
  */
 
 #ifndef __LOYOPT_H__
